@@ -1,0 +1,6 @@
+name: Wand-System
+version: 1.0
+author: Zercrasht
+main: net.blazemc.wand.main.WandSystem
+commands:
+  wand:

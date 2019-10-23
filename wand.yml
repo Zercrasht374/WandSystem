@@ -1,0 +1,6 @@
+Inventory:
+  Items:
+    ErstesItem:
+      Perm: 'wand.wand1'
+      DisplayName: '&a&lEmerald-Wand'
+      Material: EMERALD_BLOCK
